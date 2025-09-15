@@ -24,5 +24,5 @@ export default defineConfig({
     }
   })
   ],
-
+  base: "/student-skills-react19/",
 })
